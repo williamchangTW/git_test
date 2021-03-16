@@ -18,3 +18,5 @@ text to identify their license:
 
 This enables machine processing of license information based on the SPDX
 License Identifiers that are here available: http://spdx.org/licenses/
+
+change message: test to verify the process is correct

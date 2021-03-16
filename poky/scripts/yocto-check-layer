@@ -214,6 +214,12 @@ def main():
 
     return ret
 
+def test_git(signal = 0):
+    if signal == "True":
+        print("Error occur")
+    else:
+        print("Everything is OK")
+
 if __name__ == '__main__':
     try:
         ret =  main()
